@@ -1,0 +1,690 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>weeks</key>
+	<array>
+		<array>
+			<dict>
+				<key>weekDay</key>
+				<string>Monday</string>
+				<key>week</key>
+				<string>1</string>
+				<key>workoutType</key>
+				<string>Run and Swim</string>
+				<key>workout1</key>
+				<array>
+					<string>53 Minute Threshold Run </string>
+					<string>Warm Up:</string>
+					<string>15 minutes Z2</string>
+					<string>Main Set:</string>
+					<string>3 x (4 min Z4 + 60s recovery Z1)</string>
+					<string>3 min recovery Z2</string>
+					<string>3 x (4 min Z4 + 60s recovery Z1)</string>
+					<string>Cool Down:</string>
+					<string>5 min Z2</string>
+				</array>
+				<key>workout2</key>
+				<array>
+					<string>2200yd Swim</string>
+					<string>Warm Up:</string>
+					<string>100 swim Z2</string>
+					<string>100 kick Z2</string>
+					<string>100 drill Z2</string>
+					<string>100 pull Z2</string>
+					<string>Main Set:</string>
+					<string>3 x (100 pull Z2 + 100 swim Z3 + 5s rest)</string>
+					<string>3 x (100 pull Z2 + 100 swim Z4 + 10s rest)</string>
+					<string>2 x (100 pull Z2 + 100 swim Z5 + 15s rest)</string>
+					<string>Cool Down:</string>
+					<string>2 x (50 swim Z2 + 50 choice Z2) </string>
+				</array>
+			</dict>
+			<dict>
+				<key>weekDay</key>
+				<string>Tuesday</string>
+				<key>week</key>
+				<string>1</string>
+				<key>workoutType</key>
+				<string>Bike</string>
+				<key>workout1</key>
+				<array>
+					<string>1hr 3min Endurance Bike</string>
+					<string>Warm Up:</string>
+					<string>10 min Z2</string>
+					<string>5 x (20s Z3 + 40s Z2)</string>
+					<string>Main Set:</string>
+					<string>10 min Z3 + 60s recovery Z2</string>
+					<string>9 min Z3 + 60s recovery Z2</string>
+					<string>8 min Z3 + 60s recovery Z2</string>
+					<string>7 min Z3 + 60s recovery Z2</string>
+					<string>Cool Down:</string>
+					<string>10 min Z2</string>
+				</array>
+				<key>workout2</key>
+				<array>
+					<string>No second workout today</string>
+				</array>
+			</dict>
+			<dict>
+				<key>weekDay</key>
+				<string>Wednesday</string>
+				<key>week</key>
+				<string>1</string>
+				<key>workoutType</key>
+				<string>Swim and Strength</string>
+				<key>workout1</key>
+				<array>
+					<string>2400yd Endurance Swim</string>
+					<string>Warm Up:</string>
+					<string>2 x 100 breathe every 3 + 5s rest</string>
+					<string>100 pull + 100 drill + 5s rest</string>
+					<string>2 x 100 breathe every 5 + 5s rest</string>
+					<string>Main Set:</string>
+					<string>2 x (300 swim Z2 + 50 swim Z4 + 5s rest)</string>
+					<string>2 x (200 pull Z2 + 100 swim Z3 + 5s rest)</string>
+					<string>2 x (50 swim Z2 + 50 swim Z4 + 5s rest)</string>
+					<string>100 pull Z2 + 50 swim Z4 + 5s rest</string>
+					<string>Cool Down:</string>
+					<string>150 choice Z2</string>
+				</array>
+				<key>workout2</key>
+				<array>
+					<string>45 min Strength - Adaptation Phase</string>
+					<string>During this phase, the goal is to adapt your body to lifting, each exercise should be done as one set with 12 to 15 reps.</string>
+				</array>
+			</dict>
+			<dict>
+				<key>weekDay</key>
+				<string>Thursday</string>
+				<key>week</key>
+				<string>1</string>
+				<key>workoutType</key>
+				<string>Bike and Run</string>
+				<key>workout1</key>
+				<array>
+					<string>56min Tempo Bike</string>
+					<string>Warm up:</string>
+					<string>5 min low Z2</string>
+					<string>4 min high Z2</string>
+					<string>60s low Z2</string>
+					<string>Main Set:</string>
+					<string>15 min upper Z3 + 2 min recovery Z1</string>
+					<string>12 min in upper Z3 + 2 min recovery Z1</string>
+					<string>8 min upper Z3 + 2 min recovery Z1</string>
+					<string>Cool Down:</string>
+					<string>5 min Z2</string>
+				</array>
+				<key>workout2</key>
+				<array>
+					<string>20 min Run off Bike</string>
+					<string>Get off the bike and run. Do the first 10 minutes in Z4, then ease down into Z2 for the remaining 10 min.</string>
+				</array>
+			</dict>
+			<dict>
+				<key>weekDay</key>
+				<string>Friday</string>
+				<key>week</key>
+				<string>1</string>
+				<key>workoutType</key>
+				<string>Rest Day</string>
+				<key>workout1</key>
+				<array>
+					<string>Rest Day</string>
+					<string>Allows for recovery and promotes adaptation to training stresses. Helps you get faster and keep injuries at bay.</string>
+				</array>
+				<key>workout2</key>
+				<array>
+					<string>Rest Day</string>
+				</array>
+			</dict>
+			<dict>
+				<key>weekDay</key>
+				<string>Saturday</string>
+				<key>week</key>
+				<string>1</string>
+				<key>workoutType</key>
+				<string>Bike and Run</string>
+				<key>workout1</key>
+				<array>
+					<string>2hr Race Practice Ride</string>
+					<string>Warm up:</string>
+					<string>40 min in Z2</string>
+					<string>Main Set:</string>
+					<string>4 x (10 min upper Z3 + 3 min recovery in Z2)</string>
+					<string>Cool Down:</string>
+					<string>28 min in Z1-Z2</string>
+				</array>
+				<key>workout2</key>
+				<array>
+					<string>15 min Run off Bike</string>
+					<string>Get off the bike and run. Do the first 5 minutes in Z4, then ease fown into Z2 for the remainder of the 15 min run</string>
+				</array>
+			</dict>
+			<dict>
+				<key>weekDay</key>
+				<string>Sunday</string>
+				<key>week</key>
+				<string>1</string>
+				<key>workoutType</key>
+				<string>Run and Open Water Swim</string>
+				<key>workout1</key>
+				<array>
+					<string>1hr Endurance Run</string>
+					<string>Easy/steady run in Z2</string>
+				</array>
+				<key>workout2</key>
+				<array>
+					<string>1500yd Open Water Swim</string>
+					<string>Open water swim all in Z2. Tale as many rests as you want. This swim is meant to get used to the environment.</string>
+				</array>
+			</dict>
+		</array>
+		<array>
+			<dict>
+				<key>weekDay</key>
+				<string>Monday</string>
+				<key>week</key>
+				<string>2</string>
+				<key>workoutType</key>
+				<string>Bike and Swim</string>
+				<key>workout1</key>
+				<array>
+					<string>57 min Endurance Ride</string>
+					<string>Warm Up:</string>
+					<string>5 min in Z2</string>
+					<string>5 x (15 sec Z3 + 45 sec Z2)</string>
+					<string>Main Set:</string>
+					<string>15 min upper Z2 + 60 sec recovery low Z2</string>
+					<string>13 min upper Z2 + 60 sec recovery low Z2</string>
+					<string>11 min upper Z2 + 60 sec recovery low Z2</string>
+					<string>Cool Down:</string>
+					<string>5 min mid Z2</string>
+				</array>
+				<key>workout2</key>
+				<array>
+					<string>2400yd Swim</string>
+					<string>Warm Up:</string>
+					<string>2 x (100 swim + 100 drill)</string>
+					<string>2 x (50 pull Z2 + 50 pull Z4)</string>
+					<string>Main Set:</string>
+					<string>3 x (200 swim Z3 + 10 sec rest)</string>
+					<string>5 x (100 swim Z4 + 10 sec rest) </string>
+					<string>8 x (50 swim Z5 + 15 sec rest) </string>
+					<string>Cool Down:</string>
+					<string>2 x (50 free + 50 back)</string>
+					<string>100 choice</string>
+				</array>
+			</dict>
+			<dict>
+				<key>weekDay</key>
+				<string>Tuesday</string>
+				<key>week</key>
+				<string>2</string>
+				<key>workoutType</key>
+				<string>Run</string>
+				<key>workout1</key>
+				<array>
+					<string>53 min Threshold Run</string>
+					<string>Warm Up:</string>
+					<string>15 min Z2</string>
+					<string>Main Set:</string>
+					<string>3 x (4 min low Z4 + 60 sec recoveries Z1)</string>
+					<string>3 min recovery Z2</string>
+					<string>3 x (4 min low Z4 + 60 sec recoveries Z1)</string>
+					<string>Cool Down:</string>
+					<string>5 mins Z2</string>
+				</array>
+				<key>workout2</key>
+				<array>
+					<string>No second workout today</string>
+				</array>
+			</dict>
+			<dict>
+				<key>weekDay</key>
+				<string>Wednesday</string>
+				<key>week</key>
+				<string>2</string>
+				<key>workoutType</key>
+				<string>Swim and Strength</string>
+				<key>workout1</key>
+				<array>
+					<string>2600yd Endurance Swim</string>
+					<string>Warm Up:</string>
+					<string>2 x 100 breathe every 3 + 5s rest</string>
+					<string>100 pull + 100 drill + 5s rest</string>
+					<string>2 x 100 breathe every 5 + 5s rest</string>
+					<string>Main Set:</string>
+					<string>2 x (400 swim Z2 + 50 swim Z4 + 5s rest)</string>
+					<string>2 x (200 pull Z2 + 100 swim Z3 + 5s rest)</string>
+					<string>2 x (50 swim Z2 + 50 swim Z4 + 5s rest)</string>
+					<string>100 pull Z2 + 50 swim Z4 + 5s rest</string>
+					<string>Cool Down:</string>
+					<string>150 choice Z2</string>
+				</array>
+				<key>workout2</key>
+				<array>
+					<string>45 min Strength - Adaptation Phase</string>
+					<string>During this phase, the goal is to adapt your body to lifting, each exercise should be done as one set with 12 to 15 reps.</string>
+				</array>
+			</dict>
+			<dict>
+				<key>weekDay</key>
+				<string>Thursday</string>
+				<key>week</key>
+				<string>2</string>
+				<key>workoutType</key>
+				<string>Bike and Run</string>
+				<key>workout1</key>
+				<array>
+					<string>1 hr 1 min Tempo Bike</string>
+					<string>Warm up:</string>
+					<string>5 min low Z2</string>
+					<string>4 min high Z2</string>
+					<string>60s low Z2</string>
+					<string>Main Set:</string>
+					<string>18 min upper Z3 + 2 min recovery Z1</string>
+					<string>13 min in upper Z3 + 2 min recovery Z1</string>
+					<string>9 min upper Z3 + 2 min recovery Z1</string>
+					<string>Cool Down:</string>
+					<string>5 min Z2</string>
+				</array>
+				<key>workout2</key>
+				<array>
+					<string>20 min Run off Bike</string>
+					<string>Get off the bike and run. Do the first 10 minutes in Z4, then ease down into Z2 for the remaining 10 min.</string>
+				</array>
+			</dict>
+			<dict>
+				<key>weekDay</key>
+				<string>Friday</string>
+				<key>week</key>
+				<string>2</string>
+				<key>workoutType</key>
+				<string>Rest Day</string>
+				<key>workout1</key>
+				<array>
+					<string>Rest Day</string>
+					<string>Allows for recovery and promotes adaptation to training stresses. Helps you get faster and keep injuries at bay.</string>
+				</array>
+				<key>workout2</key>
+				<array>
+					<string>Rest Day</string>
+				</array>
+			</dict>
+			<dict>
+				<key>weekDay</key>
+				<string>Saturday</string>
+				<key>week</key>
+				<string>2</string>
+				<key>workoutType</key>
+				<string>Race Practice Bike and Run</string>
+				<key>workout1</key>
+				<array>
+					<string>2 hr 15 min Race Practice Ride</string>
+					<string>Warm up:</string>
+					<string>40 min in Z2</string>
+					<string>Main Set:</string>
+					<string>2 x (20 min upper Z3 + 5 min recovery in Z2)</string>
+					<string>Cool Down:</string>
+					<string>40 min in Z2</string>
+				</array>
+				<key>workout2</key>
+				<array>
+					<string>15 min Run off Bike</string>
+					<string>Get off the bike and run. Do the first 5 minutes in Z4, then ease fown into Z2 for the remainder of the 15 min run</string>
+				</array>
+			</dict>
+			<dict>
+				<key>weekDay</key>
+				<string>Sunday</string>
+				<key>week</key>
+				<string>2</string>
+				<key>workoutType</key>
+				<string>Run and Open Water Swim</string>
+				<key>workout1</key>
+				<array>
+					<string>1 hr 10 min Endurance Run</string>
+					<string>Easy/steady run in Z2</string>
+				</array>
+				<key>workout2</key>
+				<array>
+					<string>50 min Open Water Swim</string>
+					<string>Warm Up:</string>
+					<string>100 swim + 100 drill</string>
+					<string>Main Set:</string>
+					<string>2 x (800 swim Z3 + 20 sec rest)</string>
+					<string>Cool Down:</string>
+					<string>400 swim Z2</string>
+				</array>
+			</dict>
+		</array>
+		<array>
+			<dict>
+				<key>weekDay</key>
+				<string>Monday</string>
+				<key>week</key>
+				<string>3</string>
+				<key>workoutType</key>
+				<string>Bike and Swim</string>
+				<key>workout1</key>
+				<array>
+					<string>1 hr Endurance Ride</string>
+					<string>Warm Up:</string>
+					<string>10 min in Z2</string>
+					<string>5 x (30 sec Z3 + 30 sec Z2)</string>
+					<string>Main Set:</string>
+					<string>5 x (5 min upper Z2 + 3 min mid Z2)</string>
+					<string>Cool Down:</string>
+					<string>5 min low Z2</string>
+				</array>
+				<key>workout2</key>
+				<array>
+					<string>2600yd Swim</string>
+					<string>Warm Up:</string>
+					<string>100 swim + 100 kick</string>
+					<string>2 x (100 drill + 100 pull) </string>
+					<string>Main Set:</string>
+					<string>2 x (100 pull Z2 + 200 swim Z3 + 5 sec rest)</string>
+					<string>3 x (100 pull Z2 + 100 swim Z4 + 10 sec rest) </string>
+					<string>3 x (100 pull Z2 + 100 swim Z5 + 15 sec rest)</string>
+					<string>Cool Down:</string>
+					<string>2 x (50 free + 50 back)</string>
+				</array>
+			</dict>
+			<dict>
+				<key>weekDay</key>
+				<string>Tuesday</string>
+				<key>week</key>
+				<string>3</string>
+				<key>workoutType</key>
+				<string>Run</string>
+				<key>workout1</key>
+				<array>
+					<string>58 min Threshold Run</string>
+					<string>Warm Up:</string>
+					<string>15 min Z2</string>
+					<string>Main Set:</string>
+					<string>4 x (4 min low Z4 + 60 sec recoveries Z1)</string>
+					<string>3 min recovery Z2</string>
+					<string>3 x (4 min low Z4 + 60 sec recoveries Z1)</string>
+					<string>Cool Down:</string>
+					<string>5 mins Z2</string>
+				</array>
+				<key>workout2</key>
+				<array>
+					<string>No second workout today</string>
+				</array>
+			</dict>
+			<dict>
+				<key>weekDay</key>
+				<string>Wednesday</string>
+				<key>week</key>
+				<string>2</string>
+				<key>workoutType</key>
+				<string>Swim and Strength</string>
+				<key>workout1</key>
+				<array>
+					<string>2600yd Endurance Swim</string>
+					<string>Warm Up:</string>
+					<string>2 x 100 breathe every 3 + 5s rest</string>
+					<string>100 pull + 100 drill + 5s rest</string>
+					<string>2 x 100 breathe every 5 + 5s rest</string>
+					<string>Main Set:</string>
+					<string>2 x (400 swim Z2 + 50 swim Z4 + 5s rest)</string>
+					<string>2 x (200 pull Z2 + 100 swim Z3 + 5s rest)</string>
+					<string>2 x (50 swim Z2 + 50 swim Z4 + 5s rest)</string>
+					<string>100 pull Z2 + 50 swim Z4 + 5s rest</string>
+					<string>Cool Down:</string>
+					<string>150 choice Z2</string>
+				</array>
+				<key>workout2</key>
+				<array>
+					<string>45 min Strength - Endurance Phase</string>
+					<string>During this phase, increase the number of sets to two, with each set still consisting of 12 to 15 reps.</string>
+				</array>
+			</dict>
+			<dict>
+				<key>weekDay</key>
+				<string>Thursday</string>
+				<key>week</key>
+				<string>3</string>
+				<key>workoutType</key>
+				<string>Bike and Run</string>
+				<key>workout1</key>
+				<array>
+					<string>1 hr 6 min Tempo Bike</string>
+					<string>Warm up:</string>
+					<string>5 min low Z2</string>
+					<string>4 min high Z2</string>
+					<string>60s low Z2</string>
+					<string>Main Set:</string>
+					<string>20 min upper Z3 + 2 min recovery Z1</string>
+					<string>15 min in upper Z3 + 2 min recovery Z1</string>
+					<string>10 min upper Z3 + 2 min recovery Z1</string>
+					<string>Cool Down:</string>
+					<string>5 min Z2</string>
+				</array>
+				<key>workout2</key>
+				<array>
+					<string>20 min Run off Bike</string>
+					<string>Get off the bike and run. Do the first 10 minutes in Z4, then ease down into Z2 for the remaining 10 min.</string>
+				</array>
+			</dict>
+			<dict>
+				<key>weekDay</key>
+				<string>Friday</string>
+				<key>week</key>
+				<string>3</string>
+				<key>workoutType</key>
+				<string>Rest Day</string>
+				<key>workout1</key>
+				<array>
+					<string>Rest Day</string>
+					<string>Allows for recovery and promotes adaptation to training stresses. Helps you get faster and keep injuries at bay.</string>
+				</array>
+				<key>workout2</key>
+				<array>
+					<string>Rest Day</string>
+				</array>
+			</dict>
+			<dict>
+				<key>weekDay</key>
+				<string>Saturday</string>
+				<key>week</key>
+				<string>3</string>
+				<key>workoutType</key>
+				<string>Race Practice Bike and Run</string>
+				<key>workout1</key>
+				<array>
+					<string>2 hr 30 min Race Practice Ride</string>
+					<string>Warm up:</string>
+					<string>50 min in Z2</string>
+					<string>Main Set:</string>
+					<string>5 x (10 min upper Z3 + 3 min recovery in Z2)</string>
+					<string>Cool Down:</string>
+					<string>35 min in Z2</string>
+				</array>
+				<key>workout2</key>
+				<array>
+					<string>15 min Run off Bike</string>
+					<string>Get off the bike and run. Do the first 5 minutes in Z4, then ease fown into Z2 for the remainder of the 15 min run</string>
+				</array>
+			</dict>
+			<dict>
+				<key>weekDay</key>
+				<string>Sunday</string>
+				<key>week</key>
+				<string>1</string>
+				<key>workoutType</key>
+				<string>Run and Open Water Swim</string>
+				<key>workout1</key>
+				<array>
+					<string>1 hr 15 min Endurance Run</string>
+					<string>Easy/steady run in Z2</string>
+				</array>
+				<key>workout2</key>
+				<array>
+					<string>2400yd Open Water Swim</string>
+					<string>Warm Up:</string>
+					<string>100 swim + 100 drill</string>
+					<string>Main Set:</string>
+					<string>3 x (700 swim Z3 + 20 sec rest)</string>
+					<string>Cool Down:</string>
+					<string>100 swim Z2</string>
+				</array>
+			</dict>
+		</array>
+		<array>
+			<dict>
+				<key>weekDay</key>
+				<string>Monday</string>
+				<key>week</key>
+				<string>4</string>
+				<key>workoutType</key>
+				<string>Rest Day</string>
+				<key>workout1</key>
+				<array>
+					<string>Rest Day</string>
+					<string>Allows for recovery and promotes adaptation to training stresses. Helps you get faster and keep injuries at bay.</string>
+				</array>
+				<key>workout2</key>
+				<array>
+					<string>Rest Day</string>
+				</array>
+			</dict>
+			<dict>
+				<key>weekDay</key>
+				<string>Tuesday</string>
+				<key>week</key>
+				<string>4</string>
+				<key>workoutType</key>
+				<string>Run</string>
+				<key>workout1</key>
+				<array>
+					<string>40 min Threshold Run</string>
+					<string>Warm Up:</string>
+					<string>15 min Z2</string>
+					<string>Main Set:</string>
+					<string>20 min Z4</string>
+					<string>Cool Down:</string>
+					<string>5 mins Z2</string>
+				</array>
+				<key>workout2</key>
+				<array>
+					<string>No second workout today</string>
+				</array>
+			</dict>
+			<dict>
+				<key>weekDay</key>
+				<string>Wednesday</string>
+				<key>week</key>
+				<string>4</string>
+				<key>workoutType</key>
+				<string>Swim and Strength</string>
+				<key>workout1</key>
+				<array>
+					<string>2000yd Endurance Swim</string>
+					<string>Warm Up:</string>
+					<string>100 swim + 100 drill</string>
+					<string>2 x (50 breast + 50 back + 5 sec rest)</string>
+					<string>Main Set:</string>
+					<string>100 swim + 100 pull Z2 + 15 sec rest</string>
+					<string>200 swim + 300 pull Z2 + 15 sec rest</string>
+					<string>300 swim + 200 pull Z2 + 15 sec rest</string>
+					<string>100 swim + 100 pull Z2 + 15 sec rest</string>
+					<string>Cool Down:</string>
+					<string>200 choice</string>
+				</array>
+				<key>workout2</key>
+				<array>
+					<string>45 min Strength - Endurance Phase</string>
+					<string>During this phase, increase the number of sets to two, with each set still consisting of 12 to 15 reps.</string>
+				</array>
+			</dict>
+			<dict>
+				<key>weekDay</key>
+				<string>Thursday</string>
+				<key>week</key>
+				<string>4</string>
+				<key>workoutType</key>
+				<string>Bike</string>
+				<key>workout1</key>
+				<array>
+					<string>46 min Tempo Bike</string>
+					<string>Warm up:</string>
+					<string>5 min low Z2</string>
+					<string>Main Set:</string>
+					<string>15 min upper Z3 + 2 min recovery Z1</string>
+					<string>10 min in upper Z3 + 2 min recovery Z1</string>
+					<string>5 min upper Z3 + 2 min recovery Z1</string>
+					<string>Cool Down:</string>
+					<string>5 min Z2</string>
+				</array>
+				<key>workout2</key>
+				<array>
+					<string>No second workout today</string>
+				</array>
+			</dict>
+			<dict>
+				<key>weekDay</key>
+				<string>Friday</string>
+				<key>week</key>
+				<string>4</string>
+				<key>workoutType</key>
+				<string>Rest Day</string>
+				<key>workout1</key>
+				<array>
+					<string>Rest Day</string>
+					<string>Allows for recovery and promotes adaptation to training stresses. Helps you get faster and keep injuries at bay.</string>
+				</array>
+				<key>workout2</key>
+				<array>
+					<string>Rest Day</string>
+				</array>
+			</dict>
+			<dict>
+				<key>weekDay</key>
+				<string>Saturday</string>
+				<key>week</key>
+				<string>4</string>
+				<key>workoutType</key>
+				<string>Bike and Run</string>
+				<key>workout1</key>
+				<array>
+					<string>1 hr 20 min Race Practice Ride</string>
+					<string>Easy/Steady Z2 ride</string>
+				</array>
+				<key>workout2</key>
+				<array>
+					<string>40 min Run off Bike</string>
+					<string>Z2 steady run off the bike</string>
+				</array>
+			</dict>
+			<dict>
+				<key>weekDay</key>
+				<string>Sunday</string>
+				<key>week</key>
+				<string>4</string>
+				<key>workoutType</key>
+				<string>Open Water Swim</string>
+				<key>workout1</key>
+				<array>
+					<string>2000yd Open Water Swim</string>
+					<string>Warm Up:</string>
+					<string>400 swim</string>
+					<string>Main Set:</string>
+					<string>4 x (50 swim Z5 with beach or deep water starts + 20 sec rest)</string>
+					<string>1000 swim Z3 + 45 sec rest</string>
+					<string>Cool Down:</string>
+					<string>400 swim </string>
+				</array>
+				<key>workout2</key>
+				<array>
+					<string>No second workout today</string>
+				</array>
+			</dict>
+		</array>
+	</array>
+</dict>
+</plist>
